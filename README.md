@@ -8,7 +8,7 @@ tasks and operations.
 We are currently trying to apply this method on a miniature production system designed
 for learning and educative purposes. The system is called MPS(r) 500-FMS and is located
 in MELT (Manufacturing Engineering Laboratory of Tlemcen), Algeria.
-MPS 500-FMS is an abreviation of Manufacturing Production System 500 Flexible Manufacturing
+MPS 500-FMS is an abbreviation of Manufacturing Production System 500 Flexible Manufacturing
 Systems. It is developed by FESTO to help train students and specialists in the fields of
 Manufacturing, automation, quality assurance...
 
